@@ -7,12 +7,15 @@ Deployed smart contract on Mantle Sepolia : https://explorer.sepolia.mantle.xyz/
 
 ## Welcome to BRO💪FIGHTS Homepage
 
+![Screenshot_18-12-2024_172233_localhost](https://github.com/user-attachments/assets/54ec6446-cb61-4ec1-bcc1-31b6f140d3e4)
 
 ## Marketplace page
 
+![Screenshot_18-12-2024_172333_localhost](https://github.com/user-attachments/assets/35ae4dd5-1731-4b2d-8c29-2bc2ce8acd60)
 
 ## Game Play page
 
+![Screenshot_18-12-2024_172344_localhost](https://github.com/user-attachments/assets/eda5fd20-51c9-4b2c-8303-e8aca5f3a3d6)
 
 ## Requirements
 
